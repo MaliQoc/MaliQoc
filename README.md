@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://komarev.com/ghpvc/?username=maliqoc&&style=plastics&&color=yellow" align="right"/> </p>
 
 <h1 align="center">Hi👋, I'm Ali Hasan Ozan KOÇ</h1>
 <h3 align="center">Back-end Developer & Computer Engineer</h3>
