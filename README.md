@@ -32,9 +32,9 @@
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/kotlin/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
+</a>
   <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
   </a>
