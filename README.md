@@ -75,6 +75,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-134F5C?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-2986CC?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-E69138?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0015FF?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-FF0026?style=for-the-badge&logo=redis&logoColor=white)
 
 
 # 📊 GitHub Stats:
